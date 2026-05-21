@@ -1,0 +1,5 @@
+import Foundation
+
+enum HTTPMethod: String, Sendable {
+    case get = "GET"
+}
